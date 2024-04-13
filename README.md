@@ -1,5 +1,9 @@
 # Finance-KPI-Dashboard using Microsoft Power BI
 It leverages data analytics techniques to visualize and analyze financial data, enabling stakeholders to make informed decisions and track progress towards financial goals.
+
+
+![finance](https://github.com/sunil518/Finance-KPI-Dashboard/assets/127589917/ff590d54-7de7-48a5-b566-5bc632630c29)
+
 # Objective
  Develop a comprehensive dashboard to monitor and analyze key financial metrics for decision-making and performance tracking.
  
